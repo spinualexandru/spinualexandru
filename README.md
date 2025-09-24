@@ -1,12 +1,12 @@
-# spinualexandru
+# Alex Spînu
 
 VERY WOW. SUCH PROFILE. WAUW.
 
 ![doge](https://cdn3.emoji.gg/emojis/6486_doge.gif)
 
 - I make small tools, contribute to open source, hobbyist game dev.
-- Currently working at Deloitte
-- Sometimes I'm funny.
+- Currently working at **Deloitte**
+- **Sometimes** I'm funny.
 
 
 PROJECTS
@@ -18,8 +18,8 @@ PROJECTS
 - **love2d-jam-2025** - my entry to Love2D Game Jam 2025. https://github.com/spinualexandru/love2d-jam-2025
 - **mara-db** - lightweight file database LUA/Love2D. https://github.com/spinualexandru/mara-db
 - **local-poll** - zero-dependency and self hostable node.js survey/poll platform. https://github.com/spinualexandru/local-poll
-- hyprconfig - Rust and GTK4 configurator
-- tinyfile - simple site to make images smaller quick and dirty. https://github.com/spinualexandru/tinyfile
+- **hyprconfig** - Rust and GTK4 configurator
+- **tinyfile** - simple site to make images smaller quick and dirty. https://github.com/spinualexandru/tinyfile
 
 More on my repositories button
 
