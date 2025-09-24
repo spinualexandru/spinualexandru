@@ -1,6 +1,6 @@
 # spinualexandru
 
-VERY WOW. SUCH PROFILE. LOUD.
+VERY WOW. SUCH PROFILE. WAUW.
 
 ![doge](https://cdn3.emoji.gg/emojis/6486_doge.gif)
 
