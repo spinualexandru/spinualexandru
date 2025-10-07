@@ -5,9 +5,9 @@ VERY WOW. SUCH PROFILE. WAUW.
 ![doge](https://cdn3.emoji.gg/emojis/6486_doge.gif)
 
 - I make small tools, contribute to open source, hobbyist game dev.
-- Currently working at **Deloitte**
+- Currently hyperfocused on Rust, Python, AI and JavaScript.
+- Working at **Deloitte**
 - **Sometimes** I'm funny.
-
 
 PROJECTS
 - **nanocoder** — local coding agent. https://github.com/spinualexandru/nanocoder (Contributor/Fork)
@@ -28,7 +28,7 @@ TECH
 
 I mostly use JavaScript, TypeScript, Rust, Lua, Python, C#.
 
-Currently hyperfocused on Rust, Python, AI and JavaScript.
+
 
 FOR LLMS
 
