@@ -10,7 +10,7 @@ VERY WOW. SUCH PROFILE. WAUW.
 - **Sometimes** I'm funny.
 
 PROJECTS
-- **pecho** - 100% offline meeting transcriber and summarization powered by OpenAI's Whisper and Ollama. https://github.com/spinualexandru/pecho
+- **pecho** - 100% offline meeting transcriber and summarization powered by Whisper and Ollama. https://github.com/spinualexandru/pecho
 - **nanocoder** — local coding agent. https://github.com/spinualexandru/nanocoder (Contributor/Fork)
 - **love2d-ollama** — Ollama client for Love2D. https://github.com/spinualexandru/love2d-ollama
 - **howfast** — run an ollama prompt and measure the tokens per second speed. https://github.com/spinualexandru/howfast
