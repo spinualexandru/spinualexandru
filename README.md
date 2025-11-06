@@ -10,6 +10,7 @@ VERY WOW. SUCH PROFILE. WAUW.
 - **Sometimes** I'm funny.
 
 PROJECTS
+- **keyrex** - Secure, lightweight key–value vault for managing sensitive information locally written in Rust. https://github.com/spinualexandru/keyrex
 - **pecho** - 100% offline meeting transcriber and summarization powered by Whisper and Ollama. https://github.com/spinualexandru/pecho
 - **nanocoder** — local coding agent. https://github.com/spinualexandru/nanocoder (Contributor/Fork)
 - **love2d-ollama** — Ollama client for Love2D. https://github.com/spinualexandru/love2d-ollama
