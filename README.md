@@ -1,13 +1,8 @@
 # Alex Spînu
 
-VERY WOW. SUCH PROFILE. WAUW.
-
-![doge](https://cdn3.emoji.gg/emojis/6486_doge.gif)
-
 - I make small tools, contribute to open source, hobbyist game dev.
 - Currently hyperfocused on Rust, Python, AI and JavaScript.
 - Working at **Deloitte**
-- **Sometimes** I'm funny.
 
 PROJECTS
 - **keyrex** - Secure, lightweight key–value vault for managing sensitive information locally written in Rust. https://github.com/spinualexandru/keyrex
@@ -22,8 +17,3 @@ PROJECTS
 - **hyprconfig** - Rust and GTK4 configurator
 
 More on my repositories button
-
-
-TECH
-
-I mostly use JavaScript, TypeScript, Rust, Lua, Python, C#.
