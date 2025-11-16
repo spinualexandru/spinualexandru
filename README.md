@@ -5,6 +5,7 @@
 - Working at **Deloitte**
 
 PROJECTS
+
   STABLE
   - **hyprlang-rs** - Hyprlang/Hyprland config parser and serializer built in Rust. https://github.com/spinualexandru/hyprlang-rs
   - **keyrex** - Secure, lightweight key–value vault for managing sensitive information locally written in Rust. https://github.com/spinualexandru/keyrex
