@@ -15,7 +15,7 @@ PROJECTS
   - **rustdown** — markdown in the terminal. https://github.com/spinualexandru/rustdown
 
   WORK IN PROGRESS
-  - **hyprconfig** - Rust and Tauri Hyprland configurator
+  - **hyprconfig** - Rust and Tauri Hyprland configurator. https://github.com/spinualexandru/hyprconfig
   - **pecho** - 100% offline meeting transcriber and summarization powered by Whisper and Ollama. https://github.com/spinualexandru/pecho
 
   EXPERIMENTS
