@@ -12,7 +12,8 @@ PROJECTS
   - **nanocoder** — local coding agent. https://github.com/spinualexandru/nanocoder (Contributor/Fork)
   - **love2d-ollama** — Ollama client for Love2D. https://github.com/spinualexandru/love2d-ollama
   - **mara-db** - lightweight file database LUA/Love2D. https://github.com/spinualexandru/mara-db
-  - **rustdown** — markdown in the terminal. https://github.com/spinualexandru/rustdown
+  - **rustdown** - markdown in the terminal. https://github.com/spinualexandru/rustdown
+  - **asus-rog-touchpad-driver** - Asus ROG Touchpad Driver written in Rust. https://github.com/spinualexandru/asus-rog-touchpad-driver
 
   WORK IN PROGRESS
   - **hyprconfig** - Rust and Tauri Hyprland configurator. https://github.com/spinualexandru/hyprconfig
