@@ -14,6 +14,7 @@ PROJECTS
   - **mara-db** - lightweight file database LUA/Love2D. https://github.com/spinualexandru/mara-db
   - **rustdown** - markdown in the terminal. https://github.com/spinualexandru/rustdown
   - **asus-rog-touchpad-driver** - Asus ROG Touchpad Driver written in Rust. https://github.com/spinualexandru/asus-rog-touchpad-driver
+  - **hyprsnow** -  Snow for Hyprland made in Rust. https://github.com/spinualexandru/hyprsnow
 
   WORK IN PROGRESS
   - **hyprconfig** - Rust and Tauri Hyprland configurator. https://github.com/spinualexandru/hyprconfig
