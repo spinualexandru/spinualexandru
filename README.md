@@ -24,5 +24,6 @@ PROJECTS
   - **howfast** — run an ollama prompt and measure the tokens per second speed. https://github.com/spinualexandru/howfast
   - **love2d-jam-2025** - my entry to Love2D Game Jam 2025. https://github.com/spinualexandru/love2d-jam-2025
   - **local-poll** - zero-dependency and self hostable node.js survey/poll platform. https://github.com/spinualexandru/local-poll
+  - **baby-vs-llm** - Baby vs LLM: Testing Ethical Reasoning Through Disguised Tool Use. https://github.com/spinualexandru/babyvllm2026
 
 More on my repositories button
