@@ -1,6 +1,6 @@
 # Alex Spînu
 
-- I make small tools, contribute to open source, hobbyist game dev.
+- I make small tools, contribute to open source, hobbyist game dev. A developer's developer.
 - Currently hyperfocused on Rust, Python, AI and JavaScript.
 - Working at **Deloitte**
 
