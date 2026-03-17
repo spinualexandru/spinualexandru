@@ -17,6 +17,7 @@ PROJECTS
   - **hyprsnow** -  Snow for Hyprland made in Rust. https://github.com/spinualexandru/hyprsnow
 
   WORK IN PROGRESS
+  - **chromasync** - A lightning-fast, highly extensible color scheme generator for Linux built in Rust. https://github.com/spinualexandru/chromasync
   - **hyprconfig** - Rust and Tauri Hyprland configurator. https://github.com/spinualexandru/hyprconfig
   - **pecho** - 100% offline meeting transcriber and summarization powered by Whisper and Ollama. https://github.com/spinualexandru/pecho
 
