@@ -15,6 +15,7 @@ PROJECTS
   - **rustdown** - render markdown/html/html-markdown in the terminal. https://github.com/spinualexandru/rustdown
   - **asus-rog-touchpad-driver** - Asus ROG Touchpad Driver written in Rust. https://github.com/spinualexandru/asus-rog-touchpad-driver
   - **hyprsnow** -  Snow for Hyprland made in Rust. https://github.com/spinualexandru/hyprsnow
+  - **LoveCanvas** - Run LOVE2D direcly in VSCode via WASM. Features auto reload. https://github.com/spinualexandru/LoveCanvas
 
   WORK IN PROGRESS
   - **chromasync** - A lightning-fast, highly extensible color scheme generator for Linux built in Rust. https://github.com/spinualexandru/chromasync
