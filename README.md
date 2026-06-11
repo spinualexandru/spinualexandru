@@ -9,7 +9,8 @@ PROJECTS
   STABLE
   - **hyprlang-rs** - Hyprlang/Hyprland config parser and serializer built in Rust. https://github.com/spinualexandru/hyprlang-rs
   - **keyrex** - Secure, lightweight key–value vault for managing sensitive information locally written in Rust. https://github.com/spinualexandru/keyrex
-  - **nanocoder** — local coding agent. https://github.com/spinualexandru/nanocoder (Contributor/Fork)
+  - **nanocoder** - local coding agent. https://github.com/spinualexandru/nanocoder (Contributor/Fork)
+  - **fish-ts** - Zero-dependency Typescript to Fish transpiler. https://github.com/spinualexandru/fish-ts
   - **love2d-ollama** — Ollama client for Love2D. https://github.com/spinualexandru/love2d-ollama
   - **mara-db** - lightweight file database LUA/Love2D. https://github.com/spinualexandru/mara-db
   - **rustdown** - render markdown/html/html-markdown in the terminal. https://github.com/spinualexandru/rustdown
