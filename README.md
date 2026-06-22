@@ -18,6 +18,7 @@ PROJECTS
   - **hyprsnow** -  Snow for Hyprland made in Rust. https://github.com/spinualexandru/hyprsnow
   - **LoveCanvas** - Run LOVE2D direcly in VSCode via WASM. Features auto reload. https://github.com/spinualexandru/LoveCanvas
   - **is-term-dark** - Utility tool to check if the terminal's theme is dark or light. https://github.com/spinualexandru/is-term-dark
+  - **sourceshot** -  Code screenshotting tool with a touch of liquid glass. https://github.com/spinualexandru/sourceshot
 
   WORK IN PROGRESS
   - **chromasync** - A lightning-fast, highly extensible color scheme generator for Linux built in Rust. https://github.com/spinualexandru/chromasync
