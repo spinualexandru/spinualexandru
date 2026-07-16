@@ -19,6 +19,7 @@ PROJECTS
   - **LoveCanvas** - Run LOVE2D direcly in VSCode via WASM. Features auto reload. https://github.com/spinualexandru/LoveCanvas
   - **is-term-dark** - Utility tool to check if the terminal's theme is dark or light. https://github.com/spinualexandru/is-term-dark
   - **sourceshot** -  Code screenshotting tool with a touch of liquid glass. https://github.com/spinualexandru/sourceshot
+  - **filesystem-selection-manifest** - A small, readable manifest format for selecting files and directories built in Rust with resolver, LSP and Zed/VSCode support. https://github.com/spinualexandru/filesystem-selection-manifest
 
   WORK IN PROGRESS
   - **chromasync** - A lightning-fast, highly extensible color scheme generator for Linux built in Rust. https://github.com/spinualexandru/chromasync
