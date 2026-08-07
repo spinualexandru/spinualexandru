@@ -19,10 +19,11 @@ PROJECTS
   - **LoveCanvas** - Run LOVE2D direcly in VSCode via WASM. Features auto reload. https://github.com/spinualexandru/LoveCanvas
   - **is-term-dark** - Utility tool to check if the terminal's theme is dark or light. https://github.com/spinualexandru/is-term-dark
   - **sourceshot** -  Code screenshotting tool with a touch of liquid glass. https://github.com/spinualexandru/sourceshot
+  - **penpot-lucide-icons** -  CPenPot plugin for browsing and adding lucide icons to your designs. https://github.com/spinualexandru/penpot-lucide-icons
   - **filesystem-selection-manifest** - A small, readable manifest format for selecting files and directories built in Rust with resolver, LSP and Zed/VSCode support. https://github.com/spinualexandru/filesystem-selection-manifest
+  - **chromasync** - A lightning-fast, highly extensible color scheme generator for Linux built in Rust. https://github.com/spinualexandru/chromasync
 
   WORK IN PROGRESS
-  - **chromasync** - A lightning-fast, highly extensible color scheme generator for Linux built in Rust. https://github.com/spinualexandru/chromasync
   - **hyprconfig** - Rust and Tauri Hyprland configurator. https://github.com/spinualexandru/hyprconfig
   - **pecho** - 100% offline meeting transcriber and summarization powered by Whisper and Ollama. https://github.com/spinualexandru/pecho
   - **humanagentprotocol** - A universal protocol for symbiotic collaboration between humans and autonomous AI agents. HAP enables AI agents to request human decisions in a structured, auditable, and latency-safe manner. Agents never block — they create tickets with defined timeout behaviors, allowing graceful degradation or escalation. https://github.com/spinualexandru/humanagentprotocol
