@@ -22,12 +22,13 @@ PROJECTS
   - **penpot-lucide-icons** -  CPenPot plugin for browsing and adding lucide icons to your designs. https://github.com/spinualexandru/penpot-lucide-icons
   - **filesystem-selection-manifest** - A small, readable manifest format for selecting files and directories built in Rust with resolver, LSP and Zed/VSCode support. https://github.com/spinualexandru/filesystem-selection-manifest
   - **chromasync** - A lightning-fast, highly extensible color scheme generator for Linux built in Rust. https://github.com/spinualexandru/chromasync
+  - **ai-tierlist** - WebMCP enabled tierlist builder. https://github.com/spinualexandru/tierlist-club
 
   WORK IN PROGRESS
   - **hyprconfig** - Rust and Tauri Hyprland configurator. https://github.com/spinualexandru/hyprconfig
   - **pecho** - 100% offline meeting transcriber and summarization powered by Whisper and Ollama. https://github.com/spinualexandru/pecho
   - **humanagentprotocol** - A universal protocol for symbiotic collaboration between humans and autonomous AI agents. HAP enables AI agents to request human decisions in a structured, auditable, and latency-safe manner. Agents never block — they create tickets with defined timeout behaviors, allowing graceful degradation or escalation. https://github.com/spinualexandru/humanagentprotocol
-  - **todosh** - A fast, keyboard-driven Kanban task manager for the terminal. https://github.com/spinualexandru/todosh
+  - **todosh** - A fast, keyboard-driven Kanban task manager for the terminal with Linear integration out of the box. https://github.com/spinualexandru/todosh
   - 
 
   EXPERIMENTS
